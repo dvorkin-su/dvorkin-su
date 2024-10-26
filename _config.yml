@@ -71,7 +71,8 @@ kramdown:
   show_warnings     : false
 
 # Description
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
+theme: alembic-jekyll-theme
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
 
